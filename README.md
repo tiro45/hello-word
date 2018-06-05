@@ -1,2 +1,2 @@
 # hello-word
-a example to use giyhub
+a example to use github
